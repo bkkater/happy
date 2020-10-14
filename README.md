@@ -82,7 +82,7 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 
 # :construction_worker: Como rodar
 ```bash
-# Clone o Repositoria
+# Clone o Repositório
 $ git clone https://github.com/bkkater/happy.git
 ```
 ### 📦 Rode a API
