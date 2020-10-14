@@ -50,8 +50,8 @@
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="./.github/web-landing.png" width="400px">
-   <img src="./.github/web-list.png" width="400px">
+   <img src="./.github/mockup-mac.png" width="400px">
+   <img src="./.github/alt-mockup-mac.png" width="400px">
 </div>
 
 ### Mobile Screenshot
