@@ -36,7 +36,7 @@
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#rocket-funcionalidades)
 * [Como rodar](#construction_worker-como-rodar)
-* [License](#closed_book-license)
+* [Licencia](#closed_book-licencia)
 
 ## 📥 Layout disponivel em:  
 <p align="center">
@@ -56,10 +56,8 @@
 
 ### Mobile Screenshot
 <div style="display: flex; flex-direction: 'row';">
-   <img src="./.github/mobile-splash.png" width="180">
-   <img src="./.github/mobile-onboarding.png" width="180">
-   <img src="./.github/mobile-home.png" width="180">
-   <img src="./.github/mobile-favoritos.png" width="180">
+   <img src="./.github/mockup-iphone.png" width="180">
+   <img src="./.github/alt-mockup-iphone.png" width="180">
 </div>
 
 <p align="center">
@@ -124,7 +122,9 @@ $ yarn start
 ```
 Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode em um emulador.
 
-# :closed_book: LICENSE
+# :closed_book: Licencia
+
+Lançado em 2020 :closed_book: Licencia
 
 Made by [Bianca Medeiros](https://github.com/bkkater) 🚀.
 Esse projeto esta sobre [MIT license](./LICENSE).
