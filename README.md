@@ -36,7 +36,7 @@
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#rocket-funcionalidades)
 * [Como rodar](#construction_worker-como-rodar)
-* [Licencia](#closed_book-licencia)
+* [License](#closed_book-license)
 
 ## 📥 Layout disponivel em:  
 <p align="center">
@@ -124,9 +124,7 @@ $ yarn start
 ```
 Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode em um emulador.
 
-# :closed_book: Licencia
-
-Lançado em 2020 :closed_book: Licencia
+# :closed_book: LICENSE
 
 Made by [Bianca Medeiros](https://github.com/bkkater) 🚀.
 Esse projeto esta sobre [MIT license](./LICENSE).
