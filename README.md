@@ -36,15 +36,15 @@
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#rocket-funcionalidades)
 * [Como rodar](#construction_worker-como-rodar)
-* [Licencia](#closed_book-licencia)
+* [License](#closed_book-license)
 
 ## 📥 Layout disponivel em:  
 <p align="center">
-    <a title="Download .fig Web" href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web/duplicate">
-        <img alt="Direct Download" src="https://img.shields.io/badge/Download Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
+    <a title=".fig Web" href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web/duplicate">
+        <img alt="Figma" src="https://img.shields.io/badge/Happy Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
     </a>
-    <a title="Download .fig Mobile" href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile/duplicate">
-        <img alt="Direct Download" src="https://img.shields.io/badge/Download Mobile-black?style=flat-square&logo=figma&logoColor=red" width="215px"/>
+    <a title=".fig Mobile" href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile/duplicate">
+        <img alt="Figma" src="https://img.shields.io/badge/Happy Mobile-black?style=flat-square&logo=figma&logoColor=red" width="215px"/>
     </a>
 </p>
 
@@ -63,7 +63,7 @@
 </div>
 
 <p align="center">
-  <a href="https://meu-processo.netlify.app/" target="_blank">
+  <a href="https://app.netlify.com/" target="_blank">
     <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1599785319/readme_logos/demo_on_netlify_umjmch.png">
   </a>
 </p>
@@ -124,9 +124,7 @@ $ yarn start
 ```
 Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode em um emulador.
 
-# :closed_book: Licencia
-
-Lançado em 2020 :closed_book: Licencia
+# :closed_book: LICENSE
 
 Made by [Bianca Medeiros](https://github.com/bkkater) 🚀.
 Esse projeto esta sobre [MIT license](./LICENSE).
