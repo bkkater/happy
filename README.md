@@ -40,11 +40,11 @@
 
 ## 📥 Layout disponivel em:  
 <p align="center">
-    <a title="Download .fig Web" href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web/duplicate">
-        <img alt="Direct Download" src="https://img.shields.io/badge/Download Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
+    <a title=".fig Web" href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web/duplicate">
+        <img alt="Figma" src="https://img.shields.io/badge/Projeto Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
     </a>
-    <a title="Download .fig Mobile" href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile/duplicate">
-        <img alt="Direct Download" src="https://img.shields.io/badge/Download Mobile-black?style=flat-square&logo=figma&logoColor=red" width="215px"/>
+    <a title=".fig Mobile" href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile/duplicate">
+        <img alt="Figma" src="https://img.shields.io/badge/Projeto Mobile-black?style=flat-square&logo=figma&logoColor=red" width="215px"/>
     </a>
 </p>
 
