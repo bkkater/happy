@@ -22,7 +22,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5?style=for-the-badge">
 </p>
 
-> :rocket: Projeto feito com a finalidade de levar pessoas a visitar os orfanatos da cidade de Macaé 
+:rocket: Projeto feito com a finalidade de levar pessoas a visitar os orfanatos da cidade de Macaé 
 
 <div align="center">
   <sub>The NLW #3 project. Built by
