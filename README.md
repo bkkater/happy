@@ -78,7 +78,7 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 # :rocket: Funcionalidades
 
 * Site para cadastro de orfanatos da cidade de Macaé.
-* App para conectar visitantes ou doadores à orfanatos da cidade de Macaé.
+* App para conectar visitantes ou doadores à orfanatos de Macaé.
 
 # :construction_worker: Como rodar
 ```bash
