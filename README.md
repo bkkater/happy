@@ -68,12 +68,49 @@
 
 # :computer: Tecnologias
 Esse projeto foi feito utilizando as seguintes tecnologias:
+<details>
+  <summary>Server</summary>
 
-* [Typescript](https://www.typescriptlang.org/)      
-* [React](https://reactjs.org/)      
-* [React Native](https://reactnative.dev/) 
-* [Expo](https://expo.io/)       
-* [Express](https://expressjs.com/) 
+-   [Node.js](https://nodejs.org/)
+-   [Express](https://expressjs.com/)
+-   [Typescript](https://www.typescriptlang.org/)
+-   [TypeORM](https://typeorm.io/)
+-   [SQLite](https://www.sqlite.org/index.html)
+-   [TS-Node-Dev](https://www.npmjs.com/package/ts-node-dev)
+-   [Cors](https://www.npmjs.com/package/cors)
+-   [Yup](https://github.com/jquense/yup)
+-   [VS Code](https://code.visualstudio.com/)
+
+</details>
+
+<details>
+  <summary>Web</summary>
+
+-   [React](https://pt-br.reactjs.org/)
+-   [Typescript](https://www.typescriptlang.org/)
+-   [Axios](https://www.npmjs.com/package/axios)
+-   [React Icons](https://react-icons.netlify.com/#/)
+-   [Yup](https://github.com/jquense/yup)
+-   [Leaflet](https://leafletjs.com/)
+-   [React Leaflet](https://react-leaflet.js.org/)
+-   [VS Code](https://code.visualstudio.com/)
+
+</details>
+
+<details>
+  <summary>Mobile</summary>
+
+-   [React](https://pt-br.reactjs.org/)
+-   [React Native](https://reactnative.dev/)
+-   [Expo](https://expo.io/learn)
+-   [Typescript](https://www.typescriptlang.org/)
+-   [React Navigation](https://reactnavigation.org/)
+-   [Axios](https://www.npmjs.com/package/axios)
+-   [Expo Google Fonts](https://github.com/expo/google-fonts)
+-   [React Native Maps](https://github.com/react-native-maps/react-native-maps)
+-   [VS Code](https://code.visualstudio.com/)
+
+</details>
 
 # :rocket: Funcionalidades
 
