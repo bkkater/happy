@@ -1,10 +1,13 @@
 import express from 'express';
-import './database/connection'
 
 const app = express();
 
-app.get('/users', (req, res)=> {
-    return res.json({message: 'Hello world'})
+app.use(express.json())
+
+app.get('/', (request, response)=>{
+    return response.json({"message": "Hello"})
 })
 
-app.listen(3333);
+app.listen(3333, () => {
+    console.log('Server started! Port: 3333!');
+  });
